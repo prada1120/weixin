@@ -1,0 +1,16 @@
+{
+    "name": "prada1120/weixin",
+    "description": "WeiXinPay or a Sdk for WeiXin",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Zhou Chao",
+            "email": "Zhouc@ttouch.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "trntv\\filekit\\": "src/" }
+    }
+}
